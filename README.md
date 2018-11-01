@@ -12,7 +12,7 @@ By following certain principles:
    * Untested: one of steps before verification actions fails
 1. a scenario is a set of tests that result from one test flow
 1. every verification in a flow defines 1 test
-1. testing "through": after the verification actions, the flow continues with other steps and verifications
+1. testing "through": after the verification actions, regardless of the result, the flow continues with other steps and verifications
 1. the report contains the following matrices for each scenario: executed/aborted tests ratio, passed/executed ratio.
 
 ![Flow overview](/images/testflow_3.svg)
