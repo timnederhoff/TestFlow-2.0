@@ -23,3 +23,7 @@ The above diagram shows that with one flow different tests are executed. These t
 * Test 3: steps 1, 2, 3c
 * Test 4: steps 1, 2, 4, 5a
 * Test 5: steps 1, 2, 4, 5b
+
+flowchart:
+
+![flowchart](/images/testflow_flowchart.png)
